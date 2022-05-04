@@ -95,6 +95,6 @@ githubEmojis:
   className: not-gallery-item
 
 algolia:
-  applicationID: T0CJF4ZB1O
-  apiKey: bcbeb94d417749ab5c65b082fce32333
-  indexName: hexo-icarus
+  applicationID: WU86LMTDZL
+  apiKey: a0dde6e1889b4340bcc9851d9030eb99
+  indexName: yang-icarus
