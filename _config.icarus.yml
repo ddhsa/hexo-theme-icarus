@@ -91,11 +91,11 @@ head:
 navbar:
     # Naviagtion menu items
     menu:
-        Home: /
-        Archives: /archives
-        Categories: /categories
-        Tags: /tags
-        About: /about
+        首 页: /
+        归 档: /archives
+        分 类: /categories
+        标 签: /tags
+        关 于: /about
     # Links to be shown on the right of the navigation bar
     links:
         Discuss on GitHub:
