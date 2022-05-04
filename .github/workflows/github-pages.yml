@@ -17,6 +17,6 @@ jobs:
       - run: NODE_ENV=production npx hexo g
       - uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
           publish_dir: ./public
           force_orphan: true
