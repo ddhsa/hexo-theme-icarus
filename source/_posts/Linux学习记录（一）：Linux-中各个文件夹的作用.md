@@ -1,5 +1,6 @@
 title: Linux学习记录（一）：Linux 中各个文件夹的作用
 author: ddhsa
+cover: https://pic1.zhimg.com/v2-a6200c90b023b8184bde620f6cf8113a_b.jpg
 tags:
   - linux
   - 文件
