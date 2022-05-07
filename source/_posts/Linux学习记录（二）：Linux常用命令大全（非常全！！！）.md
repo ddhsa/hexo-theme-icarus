@@ -1,5 +1,8 @@
 title: Linux学习记录（二）：Linux常用命令大全（非常全！！！）
 author: ddhsa
+cover: https://ddhsa126.stdcdn.com/blog/Linux-Wallpaper-15.jpg
+thumbnail: https://ddhsa126.stdcdn.com/blog/Linux-Wallpaper-15.jpg
+toc: true
 tags:
   - linux
   - 命令
@@ -7,10 +10,12 @@ categories:
   - linux学习
 date: 2019-05-07 18:26:00
 ---
+最近都在和Linux打交道，感觉还不错。我觉得Linux相比windows比较麻烦的就是很多东西都要用命令来控制，当然，这也是很多人喜欢linux的原因，比较短小但却功能强大。我将我了解到的命令列举一下，仅供大家参考：
+<!-- more -->
+
 **Linux常用命令大全（非常全！！！）**
 > 原文引用[https://www.cnblogs.com/yjd_hycf_space/p/7730690.html](https://www.cnblogs.com/yjd_hycf_space/p/7730690.html)
 
-最近都在和Linux打交道，感觉还不错。我觉得Linux相比windows比较麻烦的就是很多东西都要用命令来控制，当然，这也是很多人喜欢linux的原因，比较短小但却功能强大。我将我了解到的命令列举一下，仅供大家参考：
 
 **系统信息 **  
 arch 显示机器的处理器架构(1)   
