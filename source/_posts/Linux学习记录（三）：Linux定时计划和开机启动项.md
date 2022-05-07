@@ -1,5 +1,8 @@
 title: Linux学习记录（三）：Linux定时计划和开机启动项
 author: ddhsa
+cover: https://ddhsa126.stdcdn.com/blog/Linux-Wallpaper-15.jpg
+thumbnail: https://ddhsa126.stdcdn.com/blog/Linux-Wallpaper-15.jpg
+toc: true
 tags:
   - linux
   - 定时计划
@@ -8,6 +11,8 @@ categories:
   - linux学习
 date: 2019-05-20 09:34:00
 ---
+本篇文章主要介绍linux中的定时计划指令用法，crontab定时计划就看这篇文章。
+<!-- more -->
 
 # crontab定时计划
 >定时计划我们采用`crontab`指令即可，下面给大家讲解下用法
