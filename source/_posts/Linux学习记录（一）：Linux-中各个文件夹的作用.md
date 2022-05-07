@@ -1,6 +1,8 @@
 title: Linux学习记录（一）：Linux 中各个文件夹的作用
 author: ddhsa
-cover: https://pic1.zhimg.com/v2-a6200c90b023b8184bde620f6cf8113a_b.jpg
+cover: https://ddhsa126.stdcdn.com/blog/Linux-Wallpaper-15.jpg
+thumbnail: https://ddhsa126.stdcdn.com/blog/Linux-Wallpaper-15.jpg
+toc: true
 tags:
   - linux
   - 文件
@@ -8,6 +10,10 @@ categories:
   - linux学习
 date: 2019-05-07 18:24:00
 ---
+Linux 中各个文件夹的作用，包含了/、/boot、/sbin、/bin、/lib、/dev、/home、/root、/etc、/usr、/proc、/opt、/mnt、/media、/var、/tmp、/lost+found等各种路径，可以了解各个文件夹内存放的文件的作用。
+
+<!-- more -->
+
 
 **/  根目录**
 
